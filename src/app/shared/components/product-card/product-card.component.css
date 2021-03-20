@@ -1,0 +1,22 @@
+.card {
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+
+.card-footer {
+    padding: 0;
+}
+
+.card-footer button{
+    cursor: pointer;
+}
+
+img {
+    max-height: 100%;
+    height: auto;
+    object-fit: cover;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
